@@ -278,4 +278,6 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 * **Kibirt B Chane** <[Kibi](https://github.com/Koderua)>
+* kibirtbayou@yahoo.com
 * **Heyeman Urgessa** <[Heyo](https://github.com/Heyeman)>
+* abdisaheyeman083@gmail.com
